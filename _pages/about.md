@@ -24,7 +24,7 @@ I am currently a first year in Duke University's Computational Biology and Bioin
 
 I studied Computer Science during my undergraduate at Columbia Engineering. I was introduced to the field of bioinformatics and studied transposon-encoded CRISPR-Cas systems (under Sam Sternberg). 
 
-For my gap years, I worked at the Broad Institute of MIT & Harvard's Genomic Center for Infectious Disease where I worked on projects in medical mycology (under Christina Cuomo) and vector-borne disease (under Daniel Neafsey). I collaborated with the Guyana Ministry of Health to develop their national pathogen surveillance program through the Harvard T.H. School of Public Health. 
+For my gap years, I worked at the Broad Institute of MIT & Harvard's Genomic Center for Infectious Disease where I worked on projects in medical mycology (under Christina Cuomo) and vector-borne disease (under Daniel Neafsey). I collaborated with the Guyana Ministry of Health to develop their national pathogen surveillance program through the Harvard T.H. Chan School of Public Health. 
  
 My first rotation at Duke University is with Paul Magwene looking at mobile genetic elements in pathogenic fungi.
 
