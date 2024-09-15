@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Duke Center for Genomic and Computational Biology</p> 
+    <p>Center for Genomic and Computational Biology</p> 
     <p>304 Research Drive</p>
     <p>Durham, NC 27708</p>
 
